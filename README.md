@@ -16,11 +16,11 @@ env = gym.make('FrozenLake-v1')
 
 ### MC
 
-### ![](.\MC.png)
+### ![](./MC.png)
 
 ### TD
 
-![](.\TD.png)
+![](./TD.png)
 
 ### 项目三
 
@@ -28,11 +28,11 @@ env = gym.make('FrozenLake-v1')
 
 ### Q-Learning
 
-![Q-Learning](.\Q-Learning.png)
+![Q-Learning](./Q-Learning.png)
 
 ### Sarsa
 
-![](.\Sarsa.png)
+![](./Sarsa.png)
 
 将向上和向右的reward都设为0，可实现走更安全的路。
 
